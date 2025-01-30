@@ -1,4 +1,3 @@
-
 ![Sahil Kumar Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <div align="center" style="background-color:#1a1a2e; padding: 20px;">
@@ -7,13 +6,13 @@
 
 # 🤔 About me:
 
-💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp; I love exploring new technologies and developing software solutions.\
 🎓 &nbsp; I'm currently a student at Manav Rachna International Institute of Research and Studies, Haryana.\
-🌱 &nbsp; I'm on track to learn more about Frontend Development and Systems Design.\
-✍️ &nbsp; In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp; Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp; You can shoot me an email at arpitchaubay@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp; Please have a look at my [Résumé](https://arpitchaubay-dev.vercel.app/) for more details about me. I'm open to feedback and suggestions!
+🌱 &nbsp; Currently learning more about Frontend Development and Systems Design.\
+✍️ &nbsp; In my free time, I pursue Graphic Design and Blog Writing as hobbies.\
+💬 &nbsp; Feel free to reach out to me for an interesting discussion.\
+✉️ &nbsp; You can shoot me an email at skprjapati028@gmail.com, and I'll respond as soon as possible.\
+📄 &nbsp; Check out my [Résumé](https://arpitchaubay-dev.vercel.app/) for more details.
 
 # 🧑‍💻 Tech Stack:
 
@@ -26,7 +25,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 # 📈 GitHub Analytics:
 
@@ -41,21 +40,18 @@
 # 🤝🏻 Connect with Me:
 
 <p align="center" style="background-color:#1a1a2e; padding: 20px;">
-<a href="https://arpitchaubay-dev.vercel.app/"><img src="https://img.shields.io/badge/-arpitchaubay.dev-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/arpit-chaubay"><img src="https://img.shields.io/badge/-Arpit%20Chaubay-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://sahilkumar.dev/"><img src="https://img.shields.io/badge/-sahilkumar.dev-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/sahil-kumar-7b6616271/"><img src="https://img.shields.io/badge/-Sahil%20Kumar-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:skprjapati028@gmail.com"><img src="https://img.shields.io/badge/-skprjapati028@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/arpit_dev"><img src="https://img.shields.io/badge/-@arpit_dev-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/_sahil__0449_/"><img src="https://img.shields.io/badge/-@sahil__0449_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
 # 🔢 Visitor count:
 <p>
-  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
+  <img src="https://profile-counter.glitch.me/sahilkumar028/count.svg" />
 </p>
-<br>
-<br>
-<br>
+
 <div align="center" style="background-color:#1a1a2e; padding: 20px;">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Overload"  width="300" height="300"/>
   <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" alt="Debugging Frustration"  width="300" height="300"/>
-
 </div>
