@@ -48,7 +48,7 @@
 
 # 🔢 Visitor count:
 <p>
-  <img src="https://profile-counter.glitch.me/sahilkumar028/count.svg" />
+  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 </p>
 
 <div align="center" style="background-color:#1a1a2e; padding: 20px;">
