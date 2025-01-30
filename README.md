@@ -34,6 +34,7 @@
 <a href="https://github.com/sahilkumar028" style="text-decoration=none;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilkumar028&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumar028&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkumar028&theme=highcontrast&hide_border=false">
 </a>
 </p>
 
