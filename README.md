@@ -33,7 +33,7 @@
 <p align="center" style="background-color:#1a1a2e; padding: 20px;">
 <a href="https://github.com/sahilkumar028">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilkumar028&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahilkumar028&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumar028&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" />
 </a>
 </p>
 
