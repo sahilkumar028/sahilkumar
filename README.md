@@ -31,7 +31,7 @@
 # 📈 GitHub Analytics:
 
 <p align="center" style="background-color:#1a1a2e; padding: 20px;">
-<a href="https://github.com/sahilkumar028">
+<a href="https://github.com/sahilkumar028" style="text-decoration=none;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilkumar028&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumar028&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" />
 </a>
